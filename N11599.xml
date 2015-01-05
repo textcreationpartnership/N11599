@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:014660_0000_0F9457011491CAF8"/>
-            <pb facs="tcp:014660_0001_0F94570299E86A70"/>
+            <pb facs="unknown:014660_0000_0F9457011491CAF8"/>
+            <pb facs="unknown:014660_0001_0F94570299E86A70"/>
             <p>THE BATTLE OF BROOKLYN, A FARCE OF TWO ACTS: AS IT WAS PERFORMED ON LONG-ISLAND, On TUESDAY the 27th Day of AUGUST, 1776.</p>
             <p>By the REPRESENTATIVES of the TYRANTS of AMERICA, ASSEMBLED AT PHILADELPHIA.</p>
             <q>
@@ -126,7 +126,7 @@
             <p>NEW-YORK: PRINTED for J. RIVINGTON, in the Year of the REBELLION. 1776.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:014660_0002_0F945703853F2B90"/>
+            <pb facs="unknown:014660_0002_0F945703853F2B90"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>MEN.</head>
@@ -169,7 +169,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:014660_0003_0F945704215FD6A8"/>
+            <pb facs="unknown:014660_0003_0F945704215FD6A8"/>
             <head>THE BATTLE of BROOKLYN.</head>
             <div n="1" type="act">
                <div n="1" type="scene">
@@ -201,7 +201,7 @@
                      <p>Inſolence!—in future know me for your maſter—your lord! who has the diſpoſal of your life.</p>
                   </sp>
                   <sp>
-                     <pb n="6" facs="tcp:014660_0004_0F945704E5EE8A70"/>
+                     <pb n="6" facs="unknown:014660_0004_0F945704E5EE8A70"/>
                      <speaker>KING.</speaker>
                      <p>I muſt hold a candle to this Devil.
 <stage>Aſide.</stage>
@@ -254,7 +254,7 @@ Dear Joe, what is the matter?</p>
                      <p>O, is that all; I ſhall attend; in the mean time<g ref="char:punc">▪</g> go to the Commiſſary of <gap reason="illegible: indecipherable" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>, and get my can<g ref="char:EOLhyphen"/>teens
-<pb n="7" facs="tcp:014660_0005_0F94570589EC8AE8"/>
+<pb n="7" facs="unknown:014660_0005_0F94570589EC8AE8"/>
 filled; and by all means, my good Joe, be at home when I return.</p>
                   </sp>
                   <stage>(<hi>Exit Stirling.</hi>)</stage>
@@ -293,7 +293,7 @@ filled; and by all means, my good Joe, be at home when I return.</p>
                   <sp>
                      <speaker>CLARK.</speaker>
                      <p>That I am not unworthy of the truſt, you are to know, that nine of our ſloops will, this day, be
-<pb n="8" facs="tcp:014660_0006_0F94570669E9D7D8"/>
+<pb n="8" facs="unknown:014660_0006_0F94570669E9D7D8"/>
 diſcharged from the continental ſervice: to-morrow, they will be ready at the ferry to receive the ſpoil. Every fifth beaſt, by lot, is to be the wages of their ſafe delivery, at New-Haven, in Connecticut, the reſidence of the faithful. But, we being fellow-labourers, if you approve—Tabitha, the wife of my boſom, ſhall be charged with the care of your cattle.</p>
                   </sp>
                   <sp>
@@ -341,7 +341,7 @@ diſcharged from the continental ſervice: to-morrow, they will be ready at the 
                      <p>Wonderful! truly wonderful workings of wiſdom indeed!</p>
                   </sp>
                   <sp>
-                     <pb n="9" facs="tcp:014660_0007_0F9457071D68E670"/>
+                     <pb n="9" facs="unknown:014660_0007_0F9457071D68E670"/>
                      <speaker>CLARK.</speaker>
                      <p>But for ſome twenty head of cattle, the gleanings of Gwanas, in the orchard of one Bergen, I would not go ſo far: theſe once obtained, we will be near each other.</p>
                   </sp>
@@ -400,7 +400,7 @@ Godt bleſs you <hi>ay<gap reason="illegible: indecipherable" extent="1 letter">
                   </sp>
                   <stage>Kicks him off, and exit after him.</stage>
                   <sp>
-                     <pb n="10" facs="tcp:014660_0008_0F945707E12DC640"/>
+                     <pb n="10" facs="unknown:014660_0008_0F945707E12DC640"/>
                      <speaker>OFF.</speaker>
                      <p>That fellow kicks as awkward, as if he ſoon expected the ſame diſcipline: but I will go and try, if poſſible, to collect our heroes.</p>
                   </sp>
@@ -449,7 +449,7 @@ Godt bleſs you <hi>ay<gap reason="illegible: indecipherable" extent="1 letter">
                      <p>And yet, you ſee, that fifty hard dollars, made you put up, for a night, with all the inconveni<g ref="char:EOLhyphen"/>ency of bad ſmells.</p>
                   </sp>
                   <sp>
-                     <pb n="11" facs="tcp:014660_0009_0F9457089504F370"/>
+                     <pb n="11" facs="unknown:014660_0009_0F9457089504F370"/>
                      <speaker>BET.</speaker>
                      <p>A night! your Ladyſhip wrongs me very much: why, he ſnored within an hour! and the firſt ſnore was a ſignal for my retreat. I am ſure, I ſhould have been a corps, if I had been obliged to ſtay the night.</p>
                   </sp>
@@ -497,7 +497,7 @@ Godt bleſs you <hi>ay<gap reason="illegible: indecipherable" extent="1 letter">
                      <speaker>LADY G.</speaker>
                      <p>
                         <hi>Codfiſh at Boſton!</hi> it is really an odd term, Betty, but he did no more than that old fool Putnam would have done: his not forbidding that inſult to hu<g ref="char:EOLhyphen"/>manity, at New-York, was countenancing an act of barbariſm; and none, but a little-minded barbarian,
-<pb n="12" facs="tcp:014660_0010_0F9457096FAFA440"/>
+<pb n="12" facs="unknown:014660_0010_0F9457096FAFA440"/>
 would have ſuffered the Arts to be trampled under foot, as he did, in the caſe of the King's ſtatue.</p>
                   </sp>
                   <sp>
@@ -526,7 +526,7 @@ There appears to be ſome commotion, and it grows late; I begin to deſpair of �
                   <sp>
                      <speaker>WASH.</speaker>
                      <p>Gentlemen, ſpies from Flat-Buſh inform, that the regulars are making a diſpoſition to croſs the hills, near that place.—General Putnam's wiſdom in ordering that road to be flanked with breaſt-works, is now apparent. Lord Stirling, with his uſual intre<g ref="char:EOLhyphen"/>pidity and preciſion, has reconnoitered their numbers,
-<pb n="13" facs="tcp:014660_0011_0F94570A0CB65948"/>
+<pb n="13" facs="unknown:014660_0011_0F94570A0CB65948"/>
 which he finds to be about ſeven thouſand. General Sullivan has appointed the hill with exquiſite judgment; where the Brigades under him and Lord Stirling, are to take poſt, and act as occaſion may require: twelve thouſand men are allotted for the ſervice of ſending them back to their ſhips. I, with eight thouſand, will ſtay within theſe lines, to be called out to the ſlaughter and purſuit; unleſs our preſent deliberations, alter this plan of operation. My Lord, the Council expects your opinion.</p>
                   </sp>
                   <sp>
@@ -556,7 +556,7 @@ The noble Lord has ſaid nothing againſt the diſpoſition that the General had
                      <p>Swamp me, if I have not have up a breaſt<g ref="char:EOLhyphen"/>work, right acroſs the road, from wall to wall:—but, before we break up, determine, Gentlemen, what I am to do with my priſoners.</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:014660_0012_0F94570E9E095C90"/>
+                     <pb n="14" facs="unknown:014660_0012_0F94570E9E095C90"/>
                      <speaker>STIR.</speaker>
                      <p>Right, General; I ſhould have gone to my poſt, and been at a loſs on this head.</p>
                   </sp>
@@ -586,7 +586,7 @@ If your Excellency ſhould have any commands for me an hour hence, I may be foun
                   <sp>
                      <speaker>WASH.</speaker>
                      <p>Our ſoldiers are a ſtanding miracle to me: they define ſenſibly upon matters that are unimportant to them, and reſign their powers of thinking to us, in a caſe where their all is at ſtake; and do not yet diſco<g ref="char:EOLhyphen"/>ver, that we make them the engines of our power, at the expence of all that is dear and ſacred to them as men!—but avaunt reflection! Our hope, my dear Sul<g ref="char:EOLhyphen"/>livan, is in you; every command of ground is ours, with
-<pb n="15" facs="tcp:014660_0013_0F945710CA3C0A78"/>
+<pb n="15" facs="unknown:014660_0013_0F945710CA3C0A78"/>
 a perfect knowledge of all the woods and defiles: theſe advantages, at the leaſt, double the ſtrength of our men; and if we cannot defend theſe, I know of no place we can.</p>
                   </sp>
                   <sp>
@@ -617,7 +617,7 @@ Bleſs me, ſo late, and my engagements to a lady not complied with.</p>
                   <sp>
                      <speaker>SNUFF.</speaker>
                      <p>Why really, General, we ſhall be very apt to make free with thoſe Gentlemen. We have long beheld, with a jealous eye, the growing power of the Epiſco<g ref="char:EOLhyphen"/>pal Clergy; and conſidered them as the only obſtacle
-<pb n="16" facs="tcp:014660_0014_0F9457121E5CBC50"/>
+<pb n="16" facs="unknown:014660_0014_0F9457121E5CBC50"/>
 to our becoming the heads of the Church, in America; a dignity, that ſo properly belongs to the Elect, and for which, they have had the aſſurance to contend with the Lord's own people. As for the Quakers, who in general have joined the tories againſt us, we ſhall not fail to produce "an ancient teſtimony" in their behalf: I mean the teſtimony of our forefathers; till with fines, whipping, impriſonment, and the gallows, we have extirpated them from the face of the earth.</p>
                   </sp>
                   <sp>
@@ -656,7 +656,7 @@ to our becoming the heads of the Church, in America; a dignity, that ſo properl
                      <p>What's his name brought him there—damn his name, I can't remember it: he is ſon, however, to the Governor of Rhode-Iſland.</p>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:014660_0015_0F9457125F49D3A0"/>
+                     <pb n="17" facs="unknown:014660_0015_0F9457125F49D3A0"/>
                      <speaker>PUT.</speaker>
                      <p>O ho! then I quite excuſe you; you are too young in the buſineſs, to be a match for young filch: he inherits his father's talents. I had expectation, though, that we ſhould have done better, with your knowledge of the country, and other advantages.—. I had reckoned upon twenty horſes.</p>
                   </sp>
@@ -696,7 +696,7 @@ Go over, now, and join your regiment.</p>
                </div>
             </div>
             <div n="2" type="act">
-               <pb n="18" facs="tcp:014660_0016_0F9457131EADED78"/>
+               <pb n="18" facs="unknown:014660_0016_0F9457131EADED78"/>
                <head>ACT II.</head>
                <div type="scene">
                   <head>SCENE, a HILL at Gwanas, about two miles from Brooklyn lines, with an encampment on it. Time, about three o'clock in the morning.</head>
@@ -748,7 +748,7 @@ Go over, now, and join your regiment.</p>
 O Colonel Clark! from whence—from whence are you come?</p>
                   </sp>
                   <sp>
-                     <pb n="19" facs="tcp:014660_0017_0F945713DC420A10"/>
+                     <pb n="19" facs="unknown:014660_0017_0F945713DC420A10"/>
                      <speaker>CLARK.</speaker>
                      <p>From where our out-ſentries are attacked.— I ſee you are getting ready, my Lord.</p>
                   </sp>
@@ -812,7 +812,7 @@ What are theſe! who are you?</p>
                      <p>Leave off this trifling, and tell me what you know.</p>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:014660_0018_0F9457149A2E6868"/>
+                     <pb n="20" facs="unknown:014660_0018_0F9457149A2E6868"/>
                      <speaker>1ſt SOL.</speaker>
                      <p>Your honour muſt know, that we <hi>was</hi> ſtand<g ref="char:EOLhyphen"/>ing by the end of a ſide of an Indian corn field, up yonder a-piece. We heard ſomething ruſtle among the water-mellon leaves, and ſaw ſomething move; we bid them ſtand, and blazed away like brave boys.</p>
                   </sp>
@@ -874,7 +874,7 @@ Colonel Clark, as it begins to be light, go and get intelligence. I, every momen
                      <p>Well, do you not think, from the examina<g ref="char:EOLhyphen"/>tion of theſe fellows, that it was a mere ſcouting party, that ſurprized the guard?</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:014660_0019_0F94571556D1C430"/>
+                     <pb n="21" facs="unknown:014660_0019_0F94571556D1C430"/>
                      <speaker>SUL.</speaker>
                      <p>Their ſilence, my Lord, with me, marks or<g ref="char:EOLhyphen"/>der and good conduct: beſides, they do not make war by ſcouting parties—but here comes Colonel Clark.</p>
                   </sp>
@@ -922,7 +922,7 @@ Colonel Clark, as it begins to be light, go and get intelligence. I, every momen
                      <p>The Brigades are diſpoſed, as your Excel<g ref="char:EOLhyphen"/>lency directed; and the regulars are nearly up to them: you will ſee their advanced guard paſs the ſtone houſe, directly.</p>
                   </sp>
                   <sp>
-                     <pb n="22" facs="tcp:014660_0020_0F94571622E476F0"/>
+                     <pb n="22" facs="unknown:014660_0020_0F94571622E476F0"/>
                      <speaker>SUL.</speaker>
                      <p>There they are, and have diſcovered the Penn<g ref="char:EOLhyphen"/>ſylvanians; for they have quitted the road, and puſh towards them.</p>
                   </sp>
@@ -989,7 +989,7 @@ While they are kept at bay, my Lord, we are ſafe upon this hill.</p>
                      <p>Too true—there is part of the royal army, indeed, between us and our lines.</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:014660_0021_0F945716F578B880"/>
+                     <pb n="23" facs="unknown:014660_0021_0F945716F578B880"/>
                      <speaker>STIR.</speaker>
                      <p>O General Sullivan! General Sullivan!— what do you think of it now?</p>
                   </sp>
@@ -1048,7 +1048,7 @@ What is the diſaſter? what news do you bring me Ge<g ref="char:EOLhyphen"/>ner
                      <p>This is no Boſton work, Sir; they are in ear<g ref="char:EOLhyphen"/>neſt! Orders muſt be immediately iſſued for the Boats to be in readineſs, to carry our people over to New-York.</p>
                   </sp>
                   <sp>
-                     <pb n="24" facs="tcp:014660_0022_0F9457194EF1E998"/>
+                     <pb n="24" facs="unknown:014660_0022_0F9457194EF1E998"/>
                      <speaker>WASH.</speaker>
                      <p>There is time enough for that General Put<g ref="char:EOLhyphen"/>nam, after we have defended theſe works: the account of the Battle is what I wiſh to hear.</p>
                   </sp>
@@ -1094,7 +1094,7 @@ What is the diſaſter? what news do you bring me Ge<g ref="char:EOLhyphen"/>ner
                   <sp>
                      <speaker>NOAH.</speaker>
                      <p>Notwithſtanding your dirty condition, Mr. Noah, I congratulate you, on your ſafe arrival into your old quarters; neither hol'd by muſquet balls, nor ſwelled up with ſalt-water and creek mud. Thanks
-<pb n="25" facs="tcp:014660_0023_0F945719CB84F980"/>
+<pb n="25" facs="unknown:014660_0023_0F945719CB84F980"/>
 to my activity, that I am not crab's meat with the reſt.
 <stage>
                            <hi>Enter</hi> KING.</stage>
@@ -1155,7 +1155,7 @@ Now I return your congratulations<g ref="char:punc">▪</g> and am heartily glad
                      <p>And ſome hundreds of the common people, has he influenced to their end, this day. <gap reason="illegible: indecipherable" extent="1 span">
                            <desc>〈…〉</desc>
                         </gap> but, for
-<pb n="26" facs="tcp:014660_0024_0F94571A9A87FA18"/>
+<pb n="26" facs="unknown:014660_0024_0F94571A9A87FA18"/>
 God's ſake, Noah, how came a man of your under<g ref="char:EOLhyphen"/>ſtanding, in the capacity of this fellow's ſervant?</p>
                   </sp>
                   <sp>
@@ -1195,7 +1195,7 @@ God's ſake, Noah, how came a man of your under<g ref="char:EOLhyphen"/>ſtandin
                      <p>Power! and Riches!</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:014660_0025_0F94571B94F6A748"/>
+                     <pb n="27" facs="unknown:014660_0025_0F94571B94F6A748"/>
                      <speaker>KING.</speaker>
                      <p>True, very true—ſtrangers, indeed, to moſt of them: the firſt they have amply uſurped from the people, and have had art enough, to make uſe of them as inſtruments, to confirm the uſurpation.</p>
                   </sp>
